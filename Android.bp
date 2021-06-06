@@ -25,6 +25,7 @@ android_app_import {
 		enabled: false,
 	},
 	product_specific: true,
+        overrides: ["SoundPicker"],
 }
 
 android_app_import {
